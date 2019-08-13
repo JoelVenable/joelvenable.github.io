@@ -2,7 +2,7 @@
   "name": "portfolio-site",
   "version": "1.0.0",
   "description": "My portfolio website",
-  "homepage": "https://joelvenable.github.io/new-portfolio-site",
+  "homepage": "https://joelvenable.github.io",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d ."
